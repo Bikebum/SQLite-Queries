@@ -1,0 +1,1 @@
+select * from geotweets where strftime('%Y-%m-%d',created_at) between '2014-10-07' and '2014-10'14'

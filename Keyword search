@@ -1,0 +1,1 @@
+select * from geotweets where msg like '%flooding' or msg like '%Flooding'
